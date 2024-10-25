@@ -1,0 +1,5 @@
+brew install git
+sudo apt-get install git
+git init
+git add <имя_файла>
+git commit -m "Сообщение о коммите"
